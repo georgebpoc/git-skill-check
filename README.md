@@ -21,4 +21,5 @@ A. My favorite movie is titanic
 
 A. My favorite proverb is "A picture is worth a thousand words."
 
+
 When finished pushing to your `chapter-2` branch, checkout branch `chapter-3` for the next check.
