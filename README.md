@@ -2,10 +2,12 @@
 repository for git skill check
 
 ## Summary
-In this chapter we will check your skill to commit & push.
+In this chapter we will check your skill to merge.
 
 ## Follow to the instructions written below
-Answer to the questions and push your answer
+1. merge your branch `chapter-1` into `chapter-2`
+2. If there are any conflicts fix them.
+3. After all the conflicts are resolved push them to your `chapter-2` branch.
 
 ① What is your favorite food?
 
@@ -19,4 +21,4 @@ A. My favorite movie is titanic
 
 A. My favorite proverb is "A picture is worth a thousand words."
 
-After you have pushed your answer. Checkout to branch `chapter-2` for the skill check.
+When finished pushing to your `chapter-2` branch, checkout branch `chapter-3` for the next check.
